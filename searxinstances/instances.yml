@@ -189,3 +189,6 @@ https://www.perfectpixel.de/searx: {}
 https://www.searxs.eu: {}
 https://www.searxzh.cn: {}
 https://xeek.com: {}
+https://search.quinnlane.dev:
+  comments:
+  - ⚠️ Potentially unstable!
