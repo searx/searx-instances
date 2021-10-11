@@ -21,22 +21,24 @@ https://jsearch.pw: {}
 https://metasearch.nl: {}
 https://nibblehole.com: {}
 https://northboot.xyz: {}
-https://null.media: {}
 https://opengo.nl: {}
 https://privatesearch.app: {}
 https://procurx.pt: {}
 https://recherche.catmargue.org: {}
 https://s.zhaocloud.net: {}
 https://search.076.ne.jp: {}
-https://search.0xcb.dev: {}
+https://search.activemail.de: {}
+https://search.anonymize.com: {}
+https://search.antonkling.se:
+  additional_urls:
+    http://z34ambyi6makk6ta7ksog2sljly2ctt2sa3apekb7wkllk72sxecdtad.onion: Hidden Service
 https://search.asynchronousexchange.com: {}
-https://search.azkware.net: {}
+https://search.biboumail.fr: {}
 https://search.bluelock.org: {}
 https://search.disroot.org: {}
 https://search.ethibox.fr: {}
 https://search.jigsaw-security.com: {}
 https://search.jpope.org: {}
-https://search.lgbtq.cool: {}
 https://search.mdosch.de:
   additional_urls:
     http://search.4bkxscubgtxwvhpe.onion: Hidden Service
@@ -109,6 +111,7 @@ https://searx.sp-codes.de: {}
 https://searx.sunless.cloud: {}
 https://searx.thegreenwebfoundation.org: {}
 https://searx.tiekoetter.com: {}
+https://searx.tk: {}
 https://searx.tux.land: {}
 https://searx.tuxcloud.net: {}
 https://searx.tyil.nl: {}
@@ -120,9 +123,10 @@ https://searx.xkek.net:
 https://searx.xyz: {}
 https://searx.zackptg5.com: {}
 https://searx.zecircle.xyz: {}
-https://skyn3t.in/srx:
-  additional_urls:
-    http://skyn3tb3bas655mw.onion/srx: hidden service
+https://searxzh.cn: {}
+https://seeks.hsbp.org:
+  comments:
+  - https://seeks.hsbp.org/cert PGP signed fingerprints of cert
 https://spot.ecloud.global:
   git_url: https://gitlab.e.foundation/e/cloud/my-spot
 https://start.paulgo.io: {}
@@ -130,7 +134,6 @@ https://suche.dasnetzundich.de:
   comments:
   - Uses Matomo for user tracking and analytics
 https://suche.uferwerk.org: {}
-https://suchfeuer.de: {}
 https://swag.pw: {}
 https://sx.fedi.tech: {}
 https://timdor.noip.me/searx: {}
