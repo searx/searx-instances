@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: searx-instances-moved
+  - name: SearX instances list has moved.
     url: https://github.com/searxng/searx-instances
-    about: SearX instances list has moved.
+    about: SearX instances list has moved to a new GitHub repository.
