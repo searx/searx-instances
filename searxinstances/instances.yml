@@ -2,13 +2,6 @@ https://search.stinpriza.org:
   git_url: https://salsa.debian.org/debian/searx
   additional_urls:
     http://z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion: Hidden Service
-https://search.trom.tf: {}
-https://searx.bissisoft.com:
-  additional_urls:
-    http://zbuc3bbzbfdqqo2x46repx2ddajbha6fpsjeeptjhhhhzji3zopxdqyd.onion: Hidden Service
-https://searx.divided-by-zero.eu:
-  additional_urls:
-    http://f4qfqajszpx5b7itzxt6mb7kj4ktpgbdq7lq6xaiqyqx6a7de3epptad.onion: Hidden Service
 https://searx.dresden.network: {}
 https://searx.gnu.style: {}
 https://searx.mastodontech.de: {}
@@ -16,8 +9,4 @@ https://searx.mxchange.org: {}
 https://searx.nixnet.services: {}
 https://searx.roflcopter.fr: {}
 https://searx.ru: {}
-https://searx.sp-codes.de: {}
-https://searx.webheberg.info: {}
 https://searx.zapashcanon.fr: {}
-https://suche.tromdienste.de: {}
-https://sx.catgirl.cloud: {}
